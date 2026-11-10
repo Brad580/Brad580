@@ -22,9 +22,9 @@ A React catalog, cart, and demo checkout built around an open-source Express/Mon
 
 [Try the storefront](https://teal-vacherin-1fb265.netlify.app/). This is a portfolio demo, with no real payments or orders.
 
-## Tools I use in these projects
+## Tools I use in projects and coursework
 
-JavaScript, React, Node.js, Express, Python, Java, SQL, SQLite, MongoDB, Git, Docker, Vitest, Supertest, and Python unittest.
+JavaScript, React, Node.js, Express, Python, Java, C++, SQL, SQLite, MongoDB, Git, Docker, Vitest, Supertest, and Python unittest.
 
 My earlier work involved troubleshooting military equipment and HVAC systems, training soldiers, and working with personal-training clients. I now work at Publix while studying computer science.
 
